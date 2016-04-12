@@ -1,0 +1,19 @@
+{
+  "name": "tekact",
+  "version": "1.0.0",
+  "description": "React TekSavvy Usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhellema/tekact.git"
+  },
+  "author": "Ben Helleman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhellema/tekact/issues"
+  },
+  "homepage": "https://github.com/bhellema/tekact#readme"
+}
